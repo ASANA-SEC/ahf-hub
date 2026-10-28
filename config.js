@@ -5,6 +5,6 @@
 window.APP_CONFIG = {
   COMPANY_NAME: 'Admin, HR & Finance Hub',
   CURRENCY: 'RM',
-  API_URL: '',
+  API_URL: 'https://script.google.com/macros/s/AKfycbxfAWuhyklMZBhq9EiHkG91Q0lETAO29MPwAL7Y34mfgCHIXCFfw8LYQ_jhqz33UYT9xQ/exec',
   GOOGLE_CLIENT_ID: '565076969693-m0aeshobnlvb0p542p3flt0g6cudjopi.apps.googleusercontent.com',
 };
